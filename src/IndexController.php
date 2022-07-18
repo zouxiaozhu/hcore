@@ -5,7 +5,7 @@ class IndexController
 {
     public static function t()
     {
-        return "hello world";
+        return "hello world11111";
     }
 
 }
